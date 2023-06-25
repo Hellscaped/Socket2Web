@@ -9,7 +9,7 @@ python = ">=3.10.0,<3.11"
 numpy = "^1.22.2"
 Flask = "^2.2.0"
 urllib3 = "^1.26.12"
-
+flask-sock = "0.6.0"
 [tool.poetry.dev-dependencies]
 debugpy = "^1.6.2"
 [build-system]
